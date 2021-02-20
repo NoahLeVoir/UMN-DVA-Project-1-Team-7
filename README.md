@@ -19,12 +19,20 @@ We are using a csv file of UFO sightings around the world
     
 
 ## Questions We Are Seeking to Answer
-
-### What are these aliens up to??
- - Update this section with our research questions list
+ - Where are UFO sightings occuring?
+ - What do the UFO's look like?
+ - Is there a specific time of year or time of day that UFO sightings occur more often?
+ - Over the years have the number of UFO sightings increased or decreased in any pattern?
+ - Regression analysis
  
 ## Analysis to Be Done
- - Update this section with a description of the charts and regression or hypothesis test that we decide to do
+ - Look at this on a per state, per city, and by lat and lng
+  - Use a bar chart, dataframe displays, and a gmaps chart using API keys
+ - Look at the shape described in each UFO sighting
+  - Limit this list to 10 or so descriptions so that it is actually repeatable sightings
+  - Use a pie chart or bar chart to display the data
+ - Use a scatter plot to look at the time of day that sightings occur
+ - Use a scatter plot to look at the number of sightings that occur year over year
  
 
 
