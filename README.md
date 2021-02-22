@@ -23,7 +23,7 @@ We are using a csv file of UFO sightings around the world
  - What do the UFO's look like?
  - Is there a specific time of year or time of day that UFO sightings occur more often?
  - Over the years have the number of UFO sightings increased or decreased in any pattern?
- - Regression analysis
+ - Can we use our data to predict how many visits will happen in future years?
  
 ## Analysis to Be Done
  - Look at this on a per state, per city, and by lat and lng
